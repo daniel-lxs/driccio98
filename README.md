@@ -1,6 +1,6 @@
 - ⭐️ Javascript/Typescript
 - 👀 Free Open Source Software (FOSS)
-- 💞️ NestJS
+- 💞️ Backend
 - 🐧 Linux
 - 📧 Contact me: ricciodaniel98@gmail.com
 
